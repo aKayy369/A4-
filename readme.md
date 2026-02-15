@@ -133,19 +133,19 @@ Contradiction   F1 ≈ 0.46
 
 1. Limited Training Data
 
-Only a small subset of BookCorpus and SNLI was used.
+**  Only a small subset of BookCorpus and SNLI was used.
 
 2. Small Model Size
 
-A reduced BERT configuration was used due to hardware constraints.
+**  A reduced BERT configuration was used due to hardware constraints.
 
 3. Word-Level Tokenization
 
-A simple tokenizer was implemented instead of WordPiece.
+** A simple tokenizer was implemented instead of WordPiece.
 
 4. Computational Constraints
 
-Full-scale training was not feasible.
+**  Full-scale training was not feasible.
 
 ## Proposed Improvements
 
@@ -171,6 +171,7 @@ A simple web application was developed using Dash.
 
 
 # App Interface
+
 <p align="center"> <img src="images/Sample1.png"> </p>
 <p align="center"> <img src="images/Sample2.png"> </p>
 <p align="center"> <img src="images/Sample3.png"> </p>
