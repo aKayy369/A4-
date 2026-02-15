@@ -176,3 +176,5 @@ A simple web application was developed using Dash.
 <p align="center"> <img src="images/Sample2.png"> </p>
 <p align="center"> <img src="images/Sample3.png"> </p>
 <p align="center"> <img src="images/Sample4.png"> </p>
+
+![Demo](images/Sample1.png)
