@@ -110,7 +110,8 @@ Fine-tuning was performed end-to-end:
 
 * Similarity Demonstration
 
-Cosine similarity between sentence embeddings:
+
+### Cosine similarity between sentence embeddings:
 
 * Cosine similarity ≈ 0.93
 
@@ -126,6 +127,15 @@ Class Performance:
 Entailment      F1 ≈ 0.48
 Neutral         F1 ≈ 0.52
 Contradiction   F1 ≈ 0.46
+
+| Class            | Precision | Recall | F1-score | Support |
+| ---------------- | --------- | ------ | -------- | ------- |
+| Entailment       | 0.56      | 0.43   | 0.48     | 374     |
+| Neutral          | 0.45      | 0.60   | 0.52     | 294     |
+| Contradiction    | 0.46      | 0.45   | 0.46     | 332     |
+| **Accuracy**     |           |        | **0.49** | 1000    |
+| **Macro Avg**    | 0.49      | 0.49   | 0.49     | 1000    |
+| **Weighted Avg** | 0.50      | 0.49   | 0.48     | 1000    |
 
 
 
