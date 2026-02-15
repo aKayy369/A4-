@@ -172,9 +172,9 @@ A simple web application was developed using Dash.
 
 # App Interface
 
-<p align="center"> <img src="images/Sample1.png"> </p>
-<p align="center"> <img src="images/Sample2.png"> </p>
-<p align="center"> <img src="images/Sample3.png"> </p>
-<p align="center"> <img src="images/Sample4.png"> </p>
+<p align="center"> <img src="Images/Sample1.png"> </p>
+<p align="center"> <img src="Images/Sample2.png"> </p>
+<p align="center"> <img src="Images/Sample3.png"> </p>
+<p align="center"> <img src="Images/Sample4.png"> </p>
 
 
